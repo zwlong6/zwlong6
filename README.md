@@ -30,6 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwlong6&layout=compact)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zwlong6&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :dart: Weekly Fuck The Code
 
