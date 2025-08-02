@@ -48,7 +48,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### :pencil2: Info
+### :pencil2: Info 
 [zzzero's blog](https://zzzero.site/)
 
 
