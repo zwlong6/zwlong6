@@ -35,11 +35,12 @@
 </a>
 
 
-### 😥 Repository
+<!-- ### 😥 Repository
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zwlong6&repo=QHang)](https://github.com/zwlong6/QHang)
 
-### :pencil2: Blog
+-->
+### :pencil2: Info
 [zzzero's blog](https://zzzero.site/)
 
 ### :dart: Weekly Fuck The Code
