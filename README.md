@@ -39,6 +39,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zwlong6&repo=QHang)](https://github.com/zwlong6/QHang)
 
+### :pencil2: Blog
+[Blogs](https://zzzero.site/)
+
 ### :dart: Weekly Fuck The Code
 
 <!--START_SECTION:waka-->
@@ -157,10 +160,5 @@ No activity tracked
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
-
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://zzzero.site/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
 
 
