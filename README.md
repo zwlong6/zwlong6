@@ -1,9 +1,9 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+  <img src="https://profile-counter.glitch.me/zwlong6/count.svg" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm zzzero</h1>
+<h1 align="center">Hi 👋, I'm Tinsy</h1>
 <h3 align="center">A passionate data developer from China</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,7 +38,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzero)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwlong6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details open>
