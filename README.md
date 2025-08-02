@@ -26,15 +26,12 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zwlong6" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zwlong6&layout=compact&langs_count=8&card_width=320" />
 </a>
-  
-![zzzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwlong6&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwlong6&layout=compact)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zwlong6&repo=QHang)](https://github.com/zwlong6/QHang)
 
