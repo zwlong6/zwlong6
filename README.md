@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/zwlong6/count.svg" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm ZZZERO</h1>
+<h1 align="center">Hi 👋, I'm zzzero</h1>
 <h3 align="center">A passionate data developer from China</h3>
 
 <h3 align="left">Languages and Tools:</h3>
